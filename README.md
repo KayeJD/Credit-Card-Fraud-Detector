@@ -1,9 +1,17 @@
-# Credit-Card-Fraud-Detector
+# Credit-Card-Fraud-Detector (Python)
 
 ## About the Data
 [Kaggle](https://www.kaggle.com/) provides an unbalanced dataset containing numerical variables of 284,807 credit card transactions made within a span of two days in September 2013 to use for machine learning related projects. In this project, 492 transactions are fraudulent, making the positive class approxiately 0.172% of all transactions. Datasheet can be found and downloaded [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
 
-##
+## Steps Involved 
+1. Loading the Data & Importing Libraries </br>
+2. Data Preprocessing </br>
+3. Data analysis </br>
+4. Train and Test Split </br>
+5. Model Building ( Logistic Regression ) </br>
+6. Model Evaluation </br>
+
+### Loading the Data
 
 ## Acknowledgements
 The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group [http://mlg.ulb.ac.be](http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection.
