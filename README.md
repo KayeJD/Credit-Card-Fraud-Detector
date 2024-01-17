@@ -11,11 +11,12 @@
 5. Model Building ( Logistic Regression ) </br>
 6. Model Evaluation </br>
 
-### Loading the Data
 
 ## Acknowledgements
+This project was led by Siddhardhan, a Machine Learning Engineer, during a Machine Learning Workshop.
+
 The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group [http://mlg.ulb.ac.be](http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection.
-More details on current and past projects on related topics are available on [https://www.researchgate.net/project/Fraud-detection-5](https://www.researchgate.net/project/Fraud-detection-5) and the page of the [DefeatFraud](https://mlg.ulb.ac.be/wordpress/portfolio_page/defeatfraud-assessment-and-validation-of-deep-feature-engineering-and-learning-solutions-for-fraud-detection/) project
+More details on current and past projects on related topics are available on [https://www.researchgate.net/project/Fraud-detection-5](https://www.researchgate.net/project/Fraud-detection-5) and the page of the [DefeatFraud](https://mlg.ulb.ac.be/wordpress/portfolio_page/defeatfraud-assessment-and-validation-of-deep-feature-engineering-and-learning-solutions-for-fraud-detection/) project. 
 
 Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson and Gianluca Bontempi. [Calibrating Probability with Undersampling for Unbalanced Classification.](https://www.researchgate.net/publication/283349138_Calibrating_Probability_with_Undersampling_for_Unbalanced_Classification) In Symposium on Computational Intelligence and Data Mining (CIDM), IEEE, 2015
 
